@@ -23,7 +23,3 @@ This is a personal 2.5D desktop spaceship shooter game developed in Unity as par
 
 - **Unity (2019)** – Game engine used for development  
 - **C#** – Scripting language for game mechanics and interactions
-
-## 📌 Notes
-
-This game is still in progress and primarily serves as a foundation for improving my skills in Unity game development.
